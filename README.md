@@ -4,8 +4,12 @@
 ## Introduction
 This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players using YOLO, the tennis ball using TrackNet and also utilizes CNNs to extract court keypoints.
 
-## For Requirements
-Run "pip install -r requirements.txt --user"
+## Setup
+git clone https://github.com/skisurfer13/RacketVision.git
+cd RacketVision/
+conda env create -n racketvision
+pip install -r requirements.txt --user
+
 
 ## Models Used
 * YOLO v8 for player detection
