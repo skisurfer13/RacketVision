@@ -9,7 +9,7 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 * cd RacketVision/
 * conda env create -n racketvision -f environment.yml
 * conda activate racketvision
-* conda install -c conda-forge jupyterlab (if you haven't installed jupyter already)
+* conda install -c conda-forge notebook (if you haven't installed jupyter already)
 * jupyter notebook
 
 
