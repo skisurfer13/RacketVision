@@ -8,6 +8,10 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 * git clone https://github.com/skisurfer13/RacketVision.git
 * cd RacketVision/
 * conda env create -n racketvision -f environment.yml
+* conda activate racketvision
+* conda install -c conda-forge jupyterlab (if you haven't installed jupyter already)
+* jupyter notebook
+
 
 
 ## Models Used
