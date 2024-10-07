@@ -2,7 +2,7 @@
 # Tennis Analysis
 
 ## Introduction
-This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players using YOLO, the tennis ball using TrackNet and also utilizes CNNs to extract court keypoints.
+This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players using YOLO, the tennis ball using TrackNet and also utilizes CNNs to extract court keypoints. Poor output when camera angle is changing / input video is not captured from a static camera setup.
 
 ## Setup
 * git clone https://github.com/skisurfer13/RacketVision.git
