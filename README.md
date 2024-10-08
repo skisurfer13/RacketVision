@@ -4,10 +4,14 @@
 
 **RacketVision** is an advanced sports analytics tool utilizing state-of-the-art computer vision architectures to provide detailed insights into player and ball movements. The system integrates **TrackNet**, **YOLOv8**, **CNN**, and **CatBoost Regressor**, delivering accurate player detection, ball tracking, and speed estimation. 
 
-## 📹 Demo Video
-[![Watch the demo](https://img.youtube.com/vi/your-demo-video-id/maxresdefault.jpg)](https://youtu.be/1os459edW1c?si=70TN8UUiDFRaZyHy)
+## 📸 Sample Output
 
-> Click on the thumbnail above to watch a demonstration of **RacketVision** in action, showcasing real-time analysis, player and ball tracking, and metric visualization.
+Below is a screenshot from the sample output of **RacketVision**, showcasing the real-time mini-map visualization and analysis box displaying player and shot metrics.
+
+![Sample Output](path/to/your/screenshot.png)
+
+
+Once you've added the image to your project directory, this will display it properly in the `README`. Let me know if you need any further help!
 
 ## 🌟 Key Features
 
