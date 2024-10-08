@@ -8,10 +8,7 @@
 
 Below is a screenshot from the sample output of **RacketVision**, showcasing the real-time mini-map visualization and analysis box displaying player and shot metrics.
 
-![Sample Output](path/to/your/screenshot.png)
-
-
-Once you've added the image to your project directory, this will display it properly in the `README`. Let me know if you need any further help!
+![Sample Output](https://github.com/skisurfer13/RacketVision/blob/main/demo.png)
 
 ## 🌟 Key Features
 
