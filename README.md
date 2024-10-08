@@ -49,22 +49,30 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
 - **Shot Speed**: Speed of each shot and average shot speed for both players.
 - **Shot Depth**: Analysis of how deep the shots land in the opponent's court.
 
-## 🚀 Usage
+
+## 🚀 Setup Instructions
 
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/RacketVision.git
    ```
-2. **Install Dependencies**: 
+2. **Navigate to the Project Directory**: 
    ```bash
-   pip install -r requirements.txt
+   cd RacketVision
    ```
-3. **Run the Application**: 
+3. **Create and Activate Conda Environment**: 
    ```bash
-   python main.py
+   conda env create -n racketvision -f environment.yml
+   conda activate racketvision
    ```
-4. **Upload Video for Analysis**: 
-   Upload your match video and the system will begin tracking player and ball movements, displaying real-time insights on the mini-map and metrics.
+4. **Install Jupyter Notebook**: 
+   ```bash
+   conda install -c conda-forge notebook
+   ```
+5. **Launch Jupyter Notebook**: 
+   ```bash
+   jupyter notebook
+   ```
 
 ## 🏗️ Future Work
 - **Player Posture Estimation**: Classifying tennis shots (serve, return, volley, forehand, backhand, etc.) based on posture.
