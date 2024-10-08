@@ -69,7 +69,7 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
    ```bash
    conda install -c conda-forge notebook
    ```
-5. **Launch Jupyter Notebook**: 
+5. **Launch Jupyter Notebook (If you haven't already)**: 
    ```bash
    jupyter notebook
    ```
