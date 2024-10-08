@@ -8,7 +8,7 @@
 
 Below is a screenshot from the sample output of **RacketVision**, showcasing the real-time mini-map visualization and analysis box displaying player and shot metrics.
 
-![Sample Output](https://github.com/skisurfer13/RacketVision/blob/main/demo.png)
+![Sample Output](https://github.com/skisurfer13/RacketVision/blob/main/sample.png)
 
 ## 🌟 Key Features
 
