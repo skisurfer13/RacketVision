@@ -6,8 +6,8 @@
 
 |   |  |
 | ----------------------- | ----------------------- |
-| ![alt text](reports/figures/osaka_halep_rome_18.gif) | ![alt text](reports/figures/djokovic_anderson_wim_18.gif) | 
-| ![alt text](reports/figures/coric_federer_halle_18.gif) | ![alt text](reports/figures/zverev_isner_miami_18.gif) |
+| ![alt text](output_videos/federer-vs-nagal.gif) | ![alt text](output_videos/output_Sinner_Alcaraz_IW.gif) | 
+| ![alt text](output_videos/output_Djokovic_vs_Tsitsipas_2023AO.gif) | ![alt text](output_videos/output_Fedal2017AO_2.gif) |
 
 ## 📸 Sample Output
 
