@@ -63,23 +63,23 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
    git clone https://github.com/yourusername/RacketVision.git
    ```
    
-2. **Download and Add Pre-trained Models**
-   Download the `models.zip` file from the [v1.0 release](#). Once downloaded, unzip the folder and move the extracted `models` folder into the `RacketVision` directory that you cloned earlier.
+2. **Download and Add Pre-trained Models**:  
+   Download the `models.zip` file from the [v1.0 release](https://github.com/yourusername/RacketVision/releases/tag/v1.0). Once downloaded, unzip the folder and move the extracted `models` folder into the `RacketVision` directory that you cloned earlier.
    
-3. **Navigate to the Project Directory**: 
+4. **Navigate to the Project Directory**: 
    ```bash
    cd RacketVision
    ```
-4. **Create and Activate Conda Environment**: 
+5. **Create and Activate Conda Environment**: 
    ```bash
    conda env create -n racketvision -f environment.yml
    conda activate racketvision
    ```
-5. **Install Jupyter Notebook**: 
+6. **Install Jupyter Notebook**: 
    ```bash
    conda install -c conda-forge notebook
    ```
-6. **Launch Jupyter Notebook (If you haven't already)**: 
+7. **Launch Jupyter Notebook (If you haven't already)**: 
    ```bash
    jupyter notebook
    ```
