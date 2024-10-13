@@ -60,7 +60,7 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/RacketVision.git
+   git clone https://github.com/skisurfer13/RacketVision.git
    ```
    
 2. **Download and Add Pre-trained Models**:  
