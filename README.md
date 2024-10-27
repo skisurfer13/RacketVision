@@ -76,11 +76,11 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
    conda env create -n racketvision -f environment.yml
    conda activate racketvision
    ```
-6. **Install Jupyter Notebook**: 
+6. **Install Jupyter Notebook (If you haven't already)**: 
    ```bash
    conda install -c conda-forge notebook
    ```
-7. **Launch Jupyter Notebook (If you haven't already)**: 
+7. **Launch Jupyter Notebook**: 
    ```bash
    jupyter notebook
    ```
