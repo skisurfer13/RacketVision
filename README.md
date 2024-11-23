@@ -65,7 +65,7 @@ Key statistics like player speed, shot speed, and depth are displayed in the ana
    
 2. **Download and Add Pre-trained Models**:  
 
-   Download the `models.zip` file from the [v1.0 release](https://github.com/skisurfer13/RacketVision/releases/tag/v1.0). Once downloaded, unzip the folder and move the extracted `models` folder into the `RacketVision` directory that you cloned earlier.
+   Download the `models.zip` file from the [v1.0 release](https://github.com/skisurfer13/RacketVision/releases/tag/v1.1). Once downloaded, unzip the folder and move the extracted `models` folder into the `RacketVision` directory that you cloned earlier.
    
 4. **Navigate to the Project Directory**: 
    ```bash
