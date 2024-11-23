@@ -1,1 +1,0 @@
-from .hawkeye_checker import in_out_checker
